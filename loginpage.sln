@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loginpage", "loginpage\loginpage.csproj", "{4804A0B2-C52D-44DA-8910-C0C6EC7CB8A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{0B09F0C2-7942-49CE-8D8C-CC6AB47E2314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4804A0B2-C52D-44DA-8910-C0C6EC7CB8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4804A0B2-C52D-44DA-8910-C0C6EC7CB8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4804A0B2-C52D-44DA-8910-C0C6EC7CB8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4804A0B2-C52D-44DA-8910-C0C6EC7CB8A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B09F0C2-7942-49CE-8D8C-CC6AB47E2314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B09F0C2-7942-49CE-8D8C-CC6AB47E2314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B09F0C2-7942-49CE-8D8C-CC6AB47E2314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B09F0C2-7942-49CE-8D8C-CC6AB47E2314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA21BC1-93F0-49C4-B668-EC4929698991}
+	EndGlobalSection
+EndGlobal
